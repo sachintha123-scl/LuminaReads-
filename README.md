@@ -20,7 +20,6 @@ This is a static web project built without any heavy frameworks.
 * **HTML5** - Page structure and content
 * **CSS3** - Styling, layout, and responsive design
 * **JavaScript (Vanilla)** - Basic DOM manipulation and interactivity
-* **Vercel** - Hosting
 
 ## 💻 How to Run Locally
 
